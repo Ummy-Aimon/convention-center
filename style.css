@@ -1,0 +1,9 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@1,700&family=Poppins&family=Roboto:ital@0;1&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.text-light{
+    color: rgb(88, 29, 29);
+}
