@@ -26,4 +26,6 @@ body{
 li{
     list-style: none;
 }
-
+.footer-img{
+    width: 90px;
+}
