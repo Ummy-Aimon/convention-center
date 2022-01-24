@@ -4,6 +4,25 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.text-light{
+.text-blue{
     color: rgb(88, 29, 29);
+}
+/* main part */
+.card-head{
+    margin-top: 100px;
+    margin-bottom: 130px;
+    text-transform: uppercase;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 600;
+    color:rgb(88, 29, 29);
+}
+.header{
+    max-width: 800px;
+    margin-top: -100px;
+    border-radius: 6px;
+    background-color: lightblue;
+}
+li{
+    list-style: none;
 }
