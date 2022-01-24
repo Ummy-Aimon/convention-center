@@ -8,7 +8,7 @@ body{
     color: rgb(88, 29, 29);
 }
 /* main part */
-.card-head{
+.head{
     margin-top: 100px;
     margin-bottom: 130px;
     text-transform: uppercase;
